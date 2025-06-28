@@ -31,4 +31,9 @@ bash <(curl -Ls https://h2.linklick.ir/74f662b76e51482d1aab8db46f3f1850/Extract.
 
 ![1](./1.jpg)
 
+![2](./2.jpg)
+
+![3](./3.jpg)
+
+![4](./4.jpg)
 
