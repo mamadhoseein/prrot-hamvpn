@@ -5,5 +5,5 @@
 دستورات نصب : 
 
 ```
-bash <(curl -Ls https://github.com/mamadhoseein/prrot-hamvpn/blob/main/Extract.sh
+bash <(curl -Ls https://raw.githubusercontent.com/mamadhoseein/prrot-hamvpn/master/Extract.sh)
 ```
